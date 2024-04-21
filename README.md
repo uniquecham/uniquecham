@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on my project.
 - 📫 How to reach me by email.
-- 😄 Pronouns: She/her.
+- 😄 Unique Chambers
 - ⚡ Fun fact: This is hard!
 
 <!---
